@@ -1,0 +1,26 @@
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python-related logs and databases
+*.log
+*.sqlite3
+
+# MySQL dump files (if sensitive)
+*.sql
+
+# VS Code settings
+.vscode/
